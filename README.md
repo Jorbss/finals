@@ -1,2 +1,2 @@
 # finals
- Final Exam - Lab Individual for CCS2700
+ Final Exam - Lab
